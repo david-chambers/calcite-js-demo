@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/david-chambers/calcite-js-demo#readme",
   "devDependencies": {
-    "calcite-bootstrap": "esri/calcite-bootstrap#v0.2.6"
+    "calcite-bootstrap": "esri/calcite-bootstrap#v0.2.6",
+    "gulp": "^3.9.0"
   }
 }
